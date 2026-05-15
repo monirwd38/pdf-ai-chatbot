@@ -1,4 +1,4 @@
-# 🧠 DocuMind: Multi-PDF AI Chatbot (RAG)
+# 🧠 DocuMind AI: Multi-PDF AI Chatbot (RAG)
 
 DocuMind is a professional-grade Retrieval-Augmented Generation (RAG) application that allows users to chat with multiple PDF documents simultaneously. It features persistent storage, conversational memory, and cross-document intelligence.
 
