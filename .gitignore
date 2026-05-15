@@ -1,0 +1,19 @@
+Python
+
+pycache/
+*.py[cod]
+venv/
+
+Environment
+
+.env
+
+App Data (Persistent storage - do not upload to GitHub)
+
+faiss_index_db/
+chat_history.json
+processed_files.json
+
+Streamlit
+
+.streamlit/
