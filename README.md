@@ -4,6 +4,14 @@ DocuMind is a professional-grade Retrieval-Augmented Generation (RAG) applicatio
 
 ---
 
+## Preview
+
+![DocuMind AI Preview](assets/preview.png)
+
+## Architecture
+
+![Architecture](assets/architecture.png)
+
 ## 🚀 Key Features
 
 - **Multi-Document Support:**  
